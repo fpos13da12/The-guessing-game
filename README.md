@@ -1,2 +1,2 @@
 # The-guessing-game
-wind
+wind print("Готово")
